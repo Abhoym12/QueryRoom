@@ -1,0 +1,52 @@
+﻿@model IEnumerable<QueryRoom.DTOs.UserDetails>
+
+@{
+    ViewBag.Title = "All Users";
+}
+
+<h2 class="text-center">All Users</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NAME)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EMAIL)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.USERNAME)
+        </th>
+        <th>
+            PHONE NO
+        </th>
+        <th>
+            POINTS
+        </th>
+        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NAME)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EMAIL)
+        </td>
+        <td>
+            @Html.DisplayFor(model => item.USERNAME)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PHONE_NO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.POINTS)
+        </td>
+        
+    </tr>
+    }
+
+</table>

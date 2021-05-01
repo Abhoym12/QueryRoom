@@ -1,0 +1,814 @@
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\QueryRoom.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\EntityFramework.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\WebGrease.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\EntityFramework.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+C:\Users\Tejas Gumgaonkat\source\repos\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\QueryRoom.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\EntityFramework.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\WebGrease.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\EntityFramework.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\QueryRoom.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\EntityFramework.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\WebGrease.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\EntityFramework.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+C:\Users\Tejas Gumgaonkat\Desktop\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\QueryRoom\QueryRoom\bin\jQuery.Validation.Unobtrusive.Native.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\jQuery.Validation.Unobtrusive.Native.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\WebGrease.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+D:\mp_latest\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\QueryRoom.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\EntityFramework.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\jQuery.Validation.Unobtrusive.Native.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\WebGrease.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\EntityFramework.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+F:\Persistent Course\Mini Project 19.04-26.04\New folder\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\jQuery.Validation.Unobtrusive.Native.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\WebGrease.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+D:\mp_latest2\24April\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\QueryRoom.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\EntityFramework.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\jQuery.Validation.Unobtrusive.Native.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\WebGrease.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\EntityFramework.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\AutoMapper.dll
+F:\Projects\QueryRoom\25-04\QueryRoom\QueryRoom\bin\AutoMapper.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\AutoMapper.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\jQuery.Validation.Unobtrusive.Native.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\WebGrease.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\AutoMapper.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+D:\mp_latest2\Final\QueryRoom\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\QueryRoom.dll.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\QueryRoom.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\QueryRoom.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\csc.exe
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\csc.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\csc.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\csi.exe
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\csi.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\csi.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.AppContext.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Collections.Immutable.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Console.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Globalization.Calendars.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Net.Http.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Net.Sockets.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Reflection.Metadata.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.ValueTuple.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\vbc.exe
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\vbc.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\vbc.rsp
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\roslyn\VBCSCompiler.exe.config
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\Antlr3.Runtime.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\AutoMapper.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\EntityFramework.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\jQuery.Validation.Unobtrusive.Native.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\Microsoft.Web.Infrastructure.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\Newtonsoft.Json.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Helpers.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Http.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Mvc.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Optimization.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Razor.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.WebPages.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\WebGrease.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\AutoMapper.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\EntityFramework.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\EntityFramework.SqlServer.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\Newtonsoft.Json.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Net.Http.Formatting.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Helpers.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Http.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Http.WebHost.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Mvc.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Optimization.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.Razor.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.WebPages.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.WebPages.Deployment.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\System.Web.WebPages.Razor.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\Antlr3.Runtime.pdb
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csprojAssemblyReference.cache
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CoreCompileInputs.cache
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\obj\Debug\QueryRoom.csproj.CopyComplete
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\obj\Debug\QueryRoom.dll
+F:\Persistent Course\Mini Project 19.04-26.04\Final Project\QueryRoom\QueryRoom\obj\Debug\QueryRoom.pdb

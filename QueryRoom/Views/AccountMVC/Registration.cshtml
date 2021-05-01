@@ -1,0 +1,105 @@
+﻿@model QueryRoom.Models.accountClass
+
+@{
+    ViewBag.Title = "User Registration";
+}
+
+
+
+<div class="row" style="margin-top:5%;">
+    <div class="col-md-2">
+
+    </div>
+    <div class="col-md-8 p-3 bg-light border rounded">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <form>
+                <h2 class="text-center display-4">Registration Form</h2>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                <div class="row">
+                    <div class="col">
+                        <label>Name</label>
+                        @Html.ValidationMessageFor(model => model.NAME, "", new { @class = "text-danger" })
+                        @Html.EditorFor(model => model.NAME, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <div class="col">
+                        <label>Email</label>
+                        @Html.ValidationMessageFor(model => model.EMAIL, "", new { @class = "text-danger" })
+
+                        @Html.EditorFor(model => model.EMAIL, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                </div>
+
+
+
+                <div class="row">
+                    <div class="col">
+                        <label>UserName</label>
+                        @Html.ValidationMessageFor(model => model.USERNAME, "", new { @class = "text-danger" })
+
+                        @Html.EditorFor(model => model.USERNAME, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <div class="col">
+                        <label>Password</label>
+                        @Html.ValidationMessageFor(model => model.PASSWORD, "", new { @class = "text-danger" })
+
+                        @Html.PasswordFor(model => model.PASSWORD, new { @class = "form-control" })
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Phone No.</label>
+                        @Html.ValidationMessageFor(model => model.PHONE_NO, "", new { @class = "text-danger" })
+
+                        @Html.EditorFor(model => model.PHONE_NO, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <div class="col-md-6">
+                        <label>Confirm Password</label>
+                        @Html.ValidationMessageFor(model => model.CNFPASSWORD, "", new { @class = "text-danger" })
+
+                        @Html.EditorFor(model => model.CNFPASSWORD, new { htmlAttributes = new { @class = "form-control" } })
+
+                    </div>
+                </div>
+
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <input type="submit" value="Sign Up" class="btn btn-primary" />
+                    </div>
+                    <div class="col-md-6">
+                        <span class="text-info">Already Have An Account? </span> @Html.ActionLink("Login Here", "Login")
+                    </div>
+                </div>
+
+
+                <p>
+                    @ViewBag.Message
+                </p>
+
+
+            </form>
+        }
+    </div>
+    <div class="col-md-2">
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/jquery.validate.min.js")
+    @Scripts.Render("~/Scripts/jquery.validate.unobtrusive.min.js")
+}

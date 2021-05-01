@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "NoAnswers";
+}
+
+<h2 class="display-4 mt-5 text-center">There were No Answers Found!</h2>
+<div id="post" class="btn btn-success mt-5" style="margin-left:45%;">
+
+</div>
+
+@section Scripts{
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        var qidd = params.get('qid');
+        var res = `
+            <a class="text-light" style="text-decoration:none;" href="/answersmvc/answerpost?qid=`+qidd+`">
+        Post First Answer
+            </a>
+                `;
+        $("#post").append(res);
+    </script>
+
+}
+

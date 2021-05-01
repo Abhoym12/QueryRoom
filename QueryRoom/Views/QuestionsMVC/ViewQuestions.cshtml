@@ -1,0 +1,88 @@
+﻿@model IEnumerable<QueryRoom.Models.Questions>
+
+@{
+    ViewBag.Title = "ViewQuestions";
+}
+
+<div class="row">
+    <div class="col-md-2">
+        <div>
+            <a class="text-dark" href="~/HomePage/Index">
+                <span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-arrow-left-circle-fill" viewBox="0 0 16 16">
+                        <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.5 7.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z" />
+                    </svg>
+                </span>
+            </a>
+
+        </div>
+    </div>
+    <div class="col-md-10">
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<h2 class="text-center display-4">My Questions</h2>
+
+
+
+
+<div class="row">
+    <div class="col-2"></div>
+    <div class="col-8">
+        <div class="row">
+            <div class="col-9"></div>
+            <div class="col-3">
+                <div class="mb-2 text-center">
+                    <a href="/questionsmvc/questionpost" class="text-dark" style="text-decoration:none;">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-plus-square-fill" viewBox="0 0 16 16">
+                            <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0z" />
+                        </svg>&nbsp; Add New
+                    </a>
+                </div>
+            </div>
+        </div>
+        <table class="table">
+
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        <div class="jumbotron jumbotron-fluid bg-light p-4 rounded">
+                            <a class="text-dark" href="/answersmvc/viewanswers?qid=@item.QID">
+                                <div class="container">
+                                    <h1 class="lead" style="font-weight:400; font-size:2em;"> @item.QUESTION</h1>
+                                    <hr />
+                                    <p class="">
+                                        @*@Html.ActionLink("Edit", "Edit", new { id = item.QID }) |*@
+                                        @Html.ActionLink("View Answer", "ViewAnswers", "AnswersMVC", new { qid = item.QID }, new { @class = "text-primary" }) |
+                                        @Html.ActionLink("Delete", "DeleteQuestion", new { guid = item.QID }, new { @class = "text-primary" })
+                                    </p>
+                                    @item.TIMESTAMP
+
+                                </div>
+                            </a>
+                        </div>
+                    </td>
+
+                </tr>
+            }
+
+
+
+
+        </table>
+    </div>
+    <div class="col-2"></div>
+
+</div>
